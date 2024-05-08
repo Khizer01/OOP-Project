@@ -1,0 +1,4 @@
+F:\LMS\Library Management System\Library .578FE02A\x64\Debug\Library Management System.vcxproj.AssemblyReference.cache
+F:\LMS\Library Management System\Library .578FE02A\x64\Debug\LibraryManagementSystem.MyForm.resources
+F:\LMS\Library Management System\Library .578FE02A\x64\Debug\Library Management System.vcxproj.GenerateResource.cache
+F:\LMS\Library Management System\Library .578FE02A\x64\Debug\LibraryManagementSystem.MyForm1.resources
